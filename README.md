@@ -15,7 +15,7 @@
 - A passionate Self-taught Full Stack developer
 - Currently learning Web Development
 - Personal website [link](https://www.)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https:)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ijk7fpcRmje9k9_FgaxJsvnnInQYv94A/view?usp=drive_link)
 
 <br><br>
 
