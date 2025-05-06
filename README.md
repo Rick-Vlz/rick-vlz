@@ -19,7 +19,7 @@ Im a passionate Self-taught Python Full Stack developer, Currently learning Data
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,postman,react,html,css,tailwind,ts,js,jquery,npm,nodejs,nextjs,figma,ai,vscode,git,github,gitlab,vercel,firebase,mongodb,sqlite,postgres,mysql,discord,obsidian,linkedin,kali,windows, ps,cs,dotnet,php,laravel,java,spring&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,flask,postman,react,html,css,tailwind,ts,js,jquery,npm,nodejs,nextjs,figma,ai,vscode,git,github,gitlab,vercel,firebase,mongodb,sqlite,postgres,mysql,discord,obsidian,linkedin,kali,windows,ps,cs,dotnet,php,laravel,java,spring&perline=14" />
   </a>
 </p>
 
