@@ -32,36 +32,20 @@ Im a passionate Self-taught Python Full Stack developer, Currently learning Data
 </a>
 </div>
 
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
 <div align='left'>
-
 <ul>
-
 <li>
 <a href="https://www.linkedin.com/in/ricardovaldes17/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  RicardoValdes-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
 <br>
-
-
 <li>
 <a href="mailto:ricardovlz.wlf@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  RicardoValdes-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
-	
+</li>	
 </ul>
 </div>
 
