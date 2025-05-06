@@ -25,14 +25,10 @@ Im a passionate Self-taught Python Full Stack developer, Currently learning Data
 
 ## <b> Let's Connect..!</b>
 <div align='center'>
-<ul>
-<li>
 <a href="https://www.linkedin.com/in/ricardovaldes17/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
 </a>
 <a href="mailto:ricardovlz.wlf@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
 </a>
-</li>	
-</ul>
 </div>
