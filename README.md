@@ -4,22 +4,6 @@ Im a passionate Self-taught Python Full Stack developer, Currently learning Data
 <!-- - Personal website [link](https://www.) -->
 - I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ZGJNaQtAXRIYCWMLsw3QJCiaikIcp7AE/view?usp=drive_link)
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,css,html,php,py,ts,js,java,swift,vscode,visualstudio,nodejs,react,laravel,bash,angular,dotnet,jquery,figma,git,github,mongodb,sqlite,postgres,mysql,discord,obsidian,linkedin,firebase,postman,bootstrap,tailwind,ps&perline=14" />
-  </a>
-</p>
-
-
-<br>
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Ricardo's Github Stats </b>
 <br>
 
@@ -31,6 +15,18 @@ Im a passionate Self-taught Python Full Stack developer, Currently learning Data
 
 </a>
 </div>
+<br>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,css,html,php,py,ts,js,java,swift,vscode,visualstudio,nodejs,react,laravel,bash,angular,dotnet,jquery,figma,git,github,mongodb,sqlite,postgres,mysql,discord,obsidian,linkedin,firebase,postman,bootstrap,tailwind,ps&perline=14" />
+  </a>
+</p>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <div align='left'>
