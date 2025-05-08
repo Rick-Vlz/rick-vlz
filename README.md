@@ -23,7 +23,7 @@ Im a passionate Self-taught Python Full Stack developer, Currently learning Data
   </a>
 </p>
 
-## <b> Let's Connect..!</b>
+## <b> Let's Connect!</b>
 <div align='center'>
 <a href="https://www.linkedin.com/in/ricardovaldes17/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
