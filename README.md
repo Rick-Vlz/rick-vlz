@@ -1,5 +1,5 @@
 <h1 align="left"><b>Hi , I'm Rick</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<!-- ,php,laravel,java,spring -->
 Im a passionate Self-taught Python Full Stack developer, Currently learning Data Analysis
 <!-- - Personal website [link](https://www.) -->
 - I’m currently open for a new job opportunity, this is my resume https://drive.google.com/file/d/1ZGJNaQtAXRIYCWMLsw3QJCiaikIcp7AE/view?usp=drive_link
@@ -19,7 +19,7 @@ Im a passionate Self-taught Python Full Stack developer, Currently learning Data
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,postman,react,html,css,tailwind,ts,js,jquery,npm,nodejs,nextjs,figma,ai,vscode,git,github,gitlab,vercel,firebase,mongodb,sqlite,postgres,mysql,kali,windows,ps,cs,dotnet,php,laravel,java,spring&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,flask,postman,react,html,css,tailwind,ts,js,jquery,npm,nodejs,nextjs,figma,ai,vscode,git,github,gitlab,vercel,firebase,mongodb,sqlite,postgres,mysql,kali,windows,ps,cs,dotnet&perline=14" />
   </a>
 </p>
 
