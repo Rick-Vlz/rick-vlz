@@ -2,7 +2,7 @@
 <!-- ,php,laravel,java,spring -->
 Im a passionate Self-taught Python Full Stack developer, Currently learning Data Analysis
 <!-- - Personal website [link](https://www.) -->
-- I’m currently open for a new job opportunity, this is my resume https://drive.google.com/file/d/1ZGJNaQtAXRIYCWMLsw3QJCiaikIcp7AE/view?usp=drive_link
+- I’m currently open for a new job opportunity, this is my resume <a href="https://drive.google.com/file/d/1ZGJNaQtAXRIYCWMLsw3QJCiaikIcp7AE/view?usp=drive_link">here</a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Ricardo's Github Stats </b>
 <br>
