@@ -1,6 +1,6 @@
 <h1 align="left"><b>Hi , I'm Rick</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- ,php,laravel,java,spring -->
-Im a passionate Self-taught Python Full Stack developer, Currently learning Data Analysis
+Im a passionate Self-taught Full Stack developer, Currently learning Data Analysis and Cloud Architecture 
 <!-- - Personal website [link](https://www.) -->
 - I’m currently open for a new job opportunity, this is my resume <a href="https://drive.google.com/file/d/1ZGJNaQtAXRIYCWMLsw3QJCiaikIcp7AE/view?usp=drive_link">here</a>
 
